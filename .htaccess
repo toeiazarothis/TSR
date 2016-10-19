@@ -1,0 +1,6 @@
+RewriteBase /TSR/
+Options +FollowSymlinks
+RewriteEngine On
+
+#Regles
+RewriteRule ^$ counter/Theme/ [L]
