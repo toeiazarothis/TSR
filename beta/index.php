@@ -15,13 +15,30 @@
     <meta property="og:url" content="">
     <meta property="og:image" content="">
     <meta property="og:description" content="Le site de l'auto ecole TSR de troyes">
-    <!-- Link -->
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1"crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+    <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet'type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- Theme CSS -->
+    <link href="css/agency.css" rel="stylesheet">
+    <!-- <link href="css/custom.css" rel="stylesheet"> -->
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
     <title>Accueil - Troyes Securite Routiere</title>
-  </head>
+
+</head>
   <body id="page-top" class="index">
     <!-- Navbar -->
     <nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top">
@@ -63,7 +80,7 @@
           <div class="col-md-4">
             <div class="panel panel-success">
               <div class="panel-heading">
-                <h4 class="text-center">Offre 1</h4>
+                <h4 class="text-center">Code</h4>
               </div>
               <div class="panel-body text-center">
                 <p class="lead"> <strong>900 €</strong> </p>
@@ -85,10 +102,10 @@
           <div class="col-md-4">
             <div class="panel panel-warning">
               <div class="panel-heading">
-                <h4 class="text-center">Offre 2</h4>
+                <h4 class="text-center">Permis B</h4>
               </div>
               <div class="panel-body text-center">
-                <p class="lead"> <strong>900 €</strong> </p>
+                <p class="lead"> <strong>1110 €</strong> </p>
               </div>
               <ul class="list-group list-group-flush text-center">
                 <li class="list-group-item"> EasyWeb <span class="fa fa-check pull-right"></span>
@@ -105,13 +122,13 @@
           <div class="col-md-4">
             <div class="panel panel-info">
               <div class="panel-heading">
-                <h4 class="text-center">Offre3</h4>
+                <h4 class="text-center">Conduite</h4>
               </div>
               <div class="panel-body text-center">
                 <p class="lead"> <strong>900 €</strong> </p>
               </div>
               <ul class="list-group list-group-flush text-center">
-                <li class="list-group-item"> EasyWeb <span class="fa fa-check pull-right"></span>
+                <li class="list-group-item"> EasyWeb <span class="fa fa-times pull-right"></span>
                 </li>
                 <li class="list-group-item"> Ligne support <span class="fa fa-check pull-right"></span>
                 </li>
@@ -184,6 +201,7 @@
       </div>
     </footer>
     <!-- Fin footer -->
+
     <!-- Bootstrap core JavaScript
       ================================================== -->
     <!-- jQuery -->
