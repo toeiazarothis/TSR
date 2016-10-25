@@ -184,16 +184,16 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-4 col-xs-12 text-center"> <span></span>
+          <div class="col-md-4 col-xs-12 text-center"> <span><i class="fa fa-circle-o fa-4x"></i></span>
             <h3>Récupération de points</h3>
             <p> Nous organisons des stage de récupération de points </p>
           </div>
-          <div class="col-md-4 col-xs-12 text-center"> <span></span>
+          <div class="col-md-4 col-xs-12 text-center"> <span><i class="fa fa-car fa-4x"></i></span>
             <h3>Conduite Accompagné</h3>
             <p> La conduite accompagné a porter de mains.<br>
               Il vous suffira</p>
           </div>
-          <div class="col-md-4 col-xs-12 text-center"> <span></span>
+          <div class="col-md-4 col-xs-12 text-center"> <span><i class="fa fa-users fa-4x"></i></span>
             <h3>Offre de Parrainage</h3>
             <p> Venez à 2 c'est mieux. <br>
               1h de conduite offerte au parrain est 1h au filleul </p>
@@ -230,28 +230,7 @@
     </section>
     <!-- Fin inscription -->
     <!-- Footer -->
-    <footer class="bg-light-gray">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 text-left">
-            <h5>A propos</h5>
-            <p> Que dire de plus sur cette auto-école ? </p>
-          </div>
-          <div class="col-md-4"> 20 bis avenue Anatole France <br>
-            03-25-75-07-98 <br>
-            06-65-70-12-99 </div>
-          <div class="col-md-2">
-            <div class="text-center"> <br>
-              &nbsp; &nbsp; </div>
-          </div>
-        </div>
-        <br>
-        <div class="row">
-          <div class="col-md-4 col-md-offset-4"> <span class="copyright">Copyright
-              © <a href="#">ToeiAzarothis</a> All rights reserved </span> </div>
-        </div>
-      </div>
-    </footer>
+    <?php include("footer.php");?>
     <!-- Fin footer -->
     <!-- jQuery -->
     <script src="vendor/jquery/jquery.min.js"></script>
