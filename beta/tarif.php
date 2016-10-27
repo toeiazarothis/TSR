@@ -17,13 +17,17 @@
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"
+
       type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet"
+    <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet"
+
       type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic"
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic"
+
       rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700"
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700"
+
       rel="stylesheet" type="text/css">
     <!-- Theme CSS -->
     <link href="css/agency.css" rel="stylesheet">
@@ -37,21 +41,24 @@
     <nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top">
       <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll"> <button type="button" class="navbar-toggle"
+        <div class="navbar-header page-scroll"> <button type="button" class="navbar-toggle"
+
             data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-            <span class="sr-only">Toggle navigation</span> Menu </button> <a class="navbar-brand page-scroll"
+            <span class="sr-only">Toggle navigation</span> Menu </button> <a class="navbar-brand page-scroll"
+
             href="#page-top">TSR</a> </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
             <li class="hidden"> </li>
-            <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+            <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+
                 role="button" aria-haspopup="true" aria-expanded="false">Forfaits
                 <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li> <a class="page-scroll" href="#tarif">Les tarifs</a> </li>
-                <li> <a class="page-scroll" href="#detailPack">Details</a> </li>
-                <li> <a class="page-scroll" href="#prestation">Nos Prestation</a>
+                <li> <a class="page-scroll" href="#detailPack">Détails</a> </li>
+                <li> <a class="page-scroll" href="#prestation">Nos Prestations</a>
                 </li>
                 <li> <a class="page-scroll " href="#documents">Inscription</a>
                 </li>
@@ -67,9 +74,9 @@
     <header>
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">Bonjour, bienvenue!</div>
+          <div class="intro-lead-in">Bonjour!</div>
           <div class="intro-heading">
-            <p>Vous êtes le bienvenue sur le site de l'auto école TSR</p>
+            <p>Nous vous souhaitons la bienvenue sur le site de l'auto école TSR</p>
             <a href="#Information" class="page-scroll btn btn-xl">&gt;&gt;SUIVRE&lt;&lt;</a>
           </div>
         </div>
@@ -150,7 +157,7 @@
         <div class="row">
           <div class="col-md-8 col-md-offset-2 text-center">
             <h2 class="section-heading">Détail des pack</h2>
-            <h3 class="section-subheading text muted">Dans chaque pack ce trouve des options pour vous aidez a vous ameliorer.</h3>
+            <h3 class="section-subheading text muted">Dans chaque pack ce trouve des options pour vous aider à vous améliorer.</h3>
           </div>
         </div>
         <!-- Fin de titre -->
@@ -158,17 +165,17 @@
         <div class="row">
           <div class="col-md-4 text-center">
             <h3>Pass-Rousseau</h3>
-            <p> Ce pass vous permet d'effectuer des exercices et de suivre des
+            <p> Ce pass vous permets d'effectuer des exercices et de suivre des
               cours depuis votre domicile </p>
           </div>
           <div class="col-md-4 text-center">
             <h3>Suivi perso</h3>
-            <p> Afin de maximiser votre réussite l’auto-école sera a votre
-              écoute pour le moindre soucis que vous pourriez avoir </p>
+            <p> Afin de maximiser votre réussite l’auto-école sera à votre
+              écoute pour le moindre souci que vous pourriez avoir </p>
           </div>
           <div class="col-md-4 text-center">
             <h3>Un titre</h3>
-            <p> Exemple de chose a mettre pour mettre en avant un produit </p>
+            <p> Exemple de choses à mettre, pour mettre en avant un produit </p>
           </div>
         </div>
         <!-- Fin d'exemple --> </div>
@@ -179,24 +186,24 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 col-md-offset-2 text-center">
-            <h2 class="section-heading">Nos differente prestation annex</h2>
-            <h3 class="section-subheading text muted">Nous avons a votre dispotion differente prestation afin de vous apporter un maximum d'avantage.</h3>
+            <h2 class="section-heading">Nos différentes prestations annexes</h2>
+            <h3 class="section-subheading text muted">Nous avons mis à votre disposition différentes prestations, afin de vous apporter un maximum d'avantages.</h3>
           </div>
         </div>
         <div class="row">
           <div class="col-md-4 col-xs-12 text-center"> <span><i class="fa fa-circle-o fa-4x"></i></span>
             <h3>Récupération de points</h3>
-            <p> Nous organisons des stage de récupération de points </p>
+            <p> Nous organisons des stages de récupération de points </p>
           </div>
           <div class="col-md-4 col-xs-12 text-center"> <span><i class="fa fa-car fa-4x"></i></span>
-            <h3>Conduite Accompagné</h3>
-            <p> La conduite accompagné a porter de mains.<br>
+            <h3>Conduite Accompagnée</h3>
+            <p> La conduite accompagnée à portée de main.<br>
               Il vous suffira</p>
           </div>
           <div class="col-md-4 col-xs-12 text-center"> <span><i class="fa fa-users fa-4x"></i></span>
             <h3>Offre de Parrainage</h3>
             <p> Venez à 2 c'est mieux. <br>
-              1h de conduite offerte au parrain est 1h au filleul </p>
+              1h de conduite offerte au parrain et 1h au filleul </p>
           </div>
         </div>
       </div>
@@ -208,7 +215,7 @@
         <div class="row">
           <div class="col-md-3 col-xs-6 text-center"> <span></span>
             <h3>Photo</h3>
-            <p>5 photographies au norme passeport.</p>
+            <p>5 photographies aux normes passeport.</p>
           </div>
           <div class="col-md-3 col-xs-6 text-center"> <span></span>
             <h3>Enveloppes</h3>
@@ -218,12 +225,12 @@
           <div class="col-md-3 col-xs-6 text-center"> <span></span>
             <h3></h3>
             <p> Venez à 2 c'est mieux. <br>
-              1h de conduite offerte au parrain est 1h au filleul </p>
+              1h de conduite offerte au parrain et 1h au filleul </p>
           </div>
           <div class="col-md-3 col-xs-6 text-center"> <span></span>
             <h3></h3>
             <p> Venez à 2 c'est mieux. <br>
-              1h de conduite offerte au parrain est 1h au filleul </p>
+              1h de conduite offerte au parrain et 1h au filleul </p>
           </div>
         </div>
       </div>
