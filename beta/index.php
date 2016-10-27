@@ -70,9 +70,9 @@
     <header>
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">Bonjour, bienvenue!</div>
+          <div class="intro-lead-in">Bonjour!</div>
           <div class="intro-heading">
-            <p>Vous êtes le bienvenue sur le site de l'auto école TSR</p>
+            <p>Nous vous souhaitons la bienvenue sur le site de l'auto école TSR</p>
             <a href="#Information" class="page-scroll btn btn-xl">&gt;&gt;SUIVRE&lt;&lt;</a>
           </div>
         </div>
