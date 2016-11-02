@@ -58,15 +58,14 @@
               <ul class="dropdown-menu">
                 <li> <a class="page-scroll" href="#tarif">Les tarifs</a> </li>
                 <li> <a class="page-scroll" href="#detailPack">Détails</a> </li>
-                <li> <a class="page-scroll" href="#prestation">Nos Prestations</a>
-                </li>
-                <li> <a class="page-scroll " href="#documents">Inscription</a>
+                <li> <a class="page-scroll" href="#prestation">Nos Prestations</a> </li>
+                <li> <a class="page-scroll" href="#documents">Inscription</a>
                 </li>
                 <!-- <li role="separator" class="divider"></li>
                         <li class="dropdown-header">Info</li>                        <li><a href="#">Separated link</a></li>                        <li><a href="#">One more separated link</a></li> -->
               </ul>
             </li>
-            <li> <a class="page-scroll" href="#">Prérequis</a> </li>
+            <li> <a class="page-scrool" href="#testimonial">Avis client</a> </li>
           </ul>
         </div>
         <!-- /.navbar-collapse --> </div>
@@ -213,6 +212,20 @@
     <section id="documents">
       <div class="container">
         <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center">
+            <p>
+              - 4 photos d'identitées (couleur et norme passeport)<br>
+              - La photocopie recto verso de la carte d'identité VALIDE de l'élève <br>
+              - La photocopie de votre feuille de recensement si - de 18 ans <br>
+              - La photocopie de votre journée d'appel à la défense si + de 18 ans et de - 25 ans <br>
+              - La photocopie de l'ASSR 2 pour les élèves nés après 1988 <br>
+              - La photocopie de votre carte de séjour <br>
+              - 4 enveloppes A4 (vierge) timbrée au tarif en vigueur <br>
+              - Original de l'adjudication judiciaire pour permis annulé ou solde nul <br>
+            </p>
+          </div>
+        </div><br>
+        <div class="row">
           <div class="col-md-3 col-xs-6 text-center"> <span></span>
             <h3>Photo</h3>
             <p>5 photographies aux normes passeport.</p>
@@ -236,6 +249,35 @@
       </div>
     </section>
     <!-- Fin inscription -->
+    <!-- Avis client -->
+    <section id="testimonial">
+      <div class="container">
+        <div class="row text-center">
+          <div class="col-md-4">
+          <h4>Tiffany FOndjo</h4>
+          <img src="" alt="" class="image-responsive"/>
+            <p>
+              Cest mon auto école ! Et je ne changerais pour rien au monde ! Un moniteur FANTASTIQUE à l'écoute de ses élèves ! Que demander de plus au peuple ?!
+            </p>
+          </div>
+          <div class="col-md-4">
+            <h4>Sam Hadri</h4>
+            <img src="" alt="" class="image-responsive"/>
+            <p>
+              Le meilleur auto école sur Troyes, moniteur compétant bon suivi pédagogique en vue de votre réussite au examens, je recommande.
+            </p>
+          </div>
+          <div class="col-md-4">
+            <h4>Rémy Regnault-Chavigny</h4>
+            <img src="" alt="" class="image-responsive"/>
+            <p>
+              Très bon moniteur, qui met de suite en confiance avec de bon conseils. Eux le permis du premier coup grâce à Auto Ecole TSR. Je vous recommande vivement cette Auto-école.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--  -->
     <!-- Footer -->
     <?php include("footer.php");?>
     <!-- Fin footer -->
