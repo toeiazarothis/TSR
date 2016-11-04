@@ -24,7 +24,7 @@ COMMING SOON PAGE
             hours.html('<h1>0</h1><p>Heures</p>');
             minutes.html('<h1>0</h1><p>Minutes</p>');
             seconds.html('<h1>0</h1><p>Secondes</p>');
-            message.html('NOTRE SITE N\'EST PAS ENCORE PRÊT ...');
+            message.html('NOTRE SITE NE DEVRAIS PU TARDER ...');
         }
         else{
             var s = -now.getTimezoneOffset()*60 + (launch.getTime() - now.getTime())/1000;
