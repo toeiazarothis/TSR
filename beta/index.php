@@ -58,6 +58,7 @@
       <div class="collapse navbar-collapse" id="navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
           <li class="hidden">
+            <li><a href="item.php" class="text-center">Equipements</a></li>
             <li><a href="tarif.php" class="text-center">Info Permis</a></li>
           </li>
         </ul>

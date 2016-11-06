@@ -13,7 +13,7 @@
   <meta property="og:description" content="L'auto-ecole troyes securite routiere vous invite à patienter sur ce decompte .">
   <meta property="op:markup_version" content="v0.1">
   <meta property="og:locale" content="fr_FR" />
-  <meta property="og:url" content="patrick.hol.es/TSR" />
+  <meta property="og:url" content="patrick.hol.es/TSR/tarif.php" />
   <meta property="og:image" content="http://mikomi.hol.es/img/opengraph.jpg"/>
   <!-- Fin Balise OG -->
 
@@ -72,6 +72,8 @@
       </div>
     </div>
   </nav>
+  <!-- Fin Navigation -->
+
   <header>
     <div class="container">
       <div class="intro-text">
@@ -83,6 +85,7 @@
       </div>
     </div>
   </header>
+
   <!-- Tableau de prix -->
   <section id="tarif">
     <div class="container">
@@ -226,16 +229,6 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6 col-md-offset-3 text-center">
-        <p>
-                              - 4 photos d'identitées (couleur et norme passeport)<br>
-                              - La photocopie recto verso de la carte d'identité VALIDE de l'élève <br>
-                              - La photocopie de votre feuille de recensement si - de 18 ans <br>
-                              - La photocopie de votre journée d'appel à la défense si + de 18 ans et de - 25 ans <br>
-                              - La photocopie de l'ASSR 2 pour les élèves nés après 1988 <br>
-                              - La photocopie de votre carte de séjour <br>
-                              - 4 enveloppes A4 (vierge) timbrée au tarif en vigueur <br>
-                              - Original de l'adjudication judiciaire pour permis annulé ou solde nul. <br>
-        </p>
       </div>
       </div><br>
       <div class="row">
@@ -257,9 +250,8 @@
           </p>
         </div>
         <div class="col-md-3 col-xs-6 text-center"> <span></span>
-          <h3></h3>
-          <p> Venez à 2 c'est mieux. <br>
-                                  1h de conduite offerte au parrain et 1h au filleul </p>
+          <h3>Original</h3>
+          <p>Adjudication judiciaire pour permis annulé ou solde nul. <br>
         </div>
       </div>
     </div>

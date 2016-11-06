@@ -17,11 +17,10 @@
           <br><br><br>
           1 examen théorique offert<br>
           1 évaluation pratique = 37,00 €<br>
-          1 leçon de conduite (1 heure) = 37,00 €<br>
-          1 présentation pratique = 39,00 €<br>
+
 
           Total <br>
-          Formation complète avec 20 leçons = 1146,00 €
+          Formation complète avec 20 leçons = ,00 €
 
 
       </div>
@@ -40,21 +39,21 @@
       </div>
       <div class="modal-body text-center">
         Texte a mettre la c'est juste un exemple ...<br>
-        Frais de dossier et d'enregistrement = 49,0 0€ <br>
-        Forfait théorique = 239,00 €<br>
-        Formation théorique illimitée (cours et tests) <br>
-        Outils pédagogiques :
+        Frais de dossier et d'enregistrement = 50,00 € <br>
+        Formation théorique (cours et tests) <br>
+        Outils pédagogiques :<br>
+          1 ans de formation en salle de code (illimité) = 120 €<br>
           1 pochette fournitures<br>
-          1 Livre de code<br>
+          1 Livre de code = 6 €<br>
           1 Pass Rousseau (Disponible sur Ios/Android et Ordinateur) = 60 €
           <br><br><br>
           1 examen théorique offert<br>
           1 évaluation pratique = 37,00 €<br>
           1 leçon de conduite (1 heure) = 37,00 €<br>
-          1 présentation pratique = 39,00 €<br>
+          1 présentation pratique = 37,00 €<br>
 
           Total <br>
-          Formation complète avec 20 leçons = 1146,00 €
+          Formation complète avec 20 leçons = 1110,00 €
 
 
       </div>
@@ -107,14 +106,7 @@
       <div class="modal-body text-center">
         Texte a mettre la c'est juste un exemple ...<br>
         Frais de dossier et d'enregistrement = 49,0 0€ <br>
-        Forfait théorique = 239,00 €<br>
-        Formation théorique illimitée (cours et tests) <br>
-        Outils pédagogiques :
-          1 pochette fournitures<br>
-          1 Livre de code<br>
-          1 Pass Rousseau (Disponible sur Ios/Android et Ordinateur) = 60 €
-          <br><br><br>
-          1 examen théorique offert<br>
+
           1 évaluation pratique = 37,00 €<br>
           1 leçon de conduite (1 heure) = 37,00 €<br>
           1 présentation pratique = 39,00 €<br>
