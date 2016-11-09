@@ -23,11 +23,11 @@
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <!-- Custom Fonts -->
   <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
   <!-- Theme CSS -->
   <link href="css/agency.css" rel="stylesheet">
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -160,6 +160,26 @@
             </ul>
             <div class="panel-footer"><a type="button" class="btn btn-lg btn-block btn-info" data-toggle="modal" data-target=".modal-lg-4" href="#">Detail</a></div>
           </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2 text-center">
+          <h2 class="section-heading">Nos moyens de paiement</h2>
+          <h3 class="section-subheading text muted">.</h3>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col-md-4">
+          <span><i class="fa fa-euro fa-4x"></i></span>
+          <a href="#"><h3>Permis à 1€</h3></a>
+        </div>
+        <div class="col-md-4">
+          <span><i class="fa fa-credit-card fa-4x">&nbsp</i><i class="fa fa-cc-visa fa-4x">&nbsp</i><i class="fa fa-cc-mastercard fa-4x"></i></span>
+          <h3>Carte de credit</h3>
+        </div>
+        <div class="col-md-4">
+          <span><i class="fa fa-file-text-o fa-4x"></i></span>
+          <h3>Financement <br>Pole-Emploi</h3>
         </div>
       </div>
     </div>

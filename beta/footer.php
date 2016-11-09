@@ -1,15 +1,15 @@
 <footer class="bg-light-gray">
   <div class="container">
     <div class="row">
-      <div class="col-md-4 text-left">
+      <div class="col-md-4 text-center">
         <h5>A propos</h5>
-        <p> Que dire de plus sur cette auto-école ? </p>
+        <p> Nous priorison la reussite de nos eleves avant toute choses.Que dire de plus sur cette auto-école ? </p>
       </div>
       <div class="col-md-3">
         <h5>Horaires</h5>
         <p>
           Lundi 14H - 19H <br>
-          Mardi - Samedi 9H - 12H / 13H45
+          Mardi - Vendredi 9H - 12H / 13H45 - 18H
         </p>
       </div>
       <div class="col-md-3 col-sm-12"> 20 bis avenue Anatole France <br>
