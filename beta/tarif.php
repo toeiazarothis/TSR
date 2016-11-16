@@ -20,9 +20,9 @@
   <title>Auto-ecole TSR</title>
 
   <!-- Bootstrap Core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
   <!-- Custom Fonts -->
-  <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="vendor/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
@@ -150,9 +150,7 @@
               <p class="lead"> <strong>900 €</strong></p>
               <p class="sublead">
                 ( Info a donner ici )
-              </p>
-            </div>
-            <ul class="list-group list-group-flush text-center">
+              </p>ush text-center">
               <li class="list-group-item"> Pass-Rousseau <span class="fa fa-times pull-right"></span></li>
               <li class="list-group-item"> Ligne support <span class="fa fa-times pull-right"></span></li>
               <li class="list-group-item"> Cahier de code <span class="fa fa-times pull-right"></span></li>
@@ -165,21 +163,30 @@
       <div class="row">
         <div class="col-md-8 col-md-offset-2 text-center">
           <h2 class="section-heading">Nos moyens de paiement</h2>
-          <h3 class="section-subheading text muted">.</h3>
+          <h3 class="section-subheading text muted"></h3>
         </div>
       </div>
       <div class="row text-center">
         <div class="col-md-4">
           <span><i class="fa fa-euro fa-4x"></i></span>
-          <a href="#"><h3>Permis à 1€</h3></a>
+          <h3>Permis à 1€</h3>
+          <p>
+            Nous reallison le permis a 1€.<br>Pour plus d'informations referer vous à notre <a href="#">article</a>
+          </p>
         </div>
         <div class="col-md-4">
-          <span><i class="fa fa-credit-card fa-4x">&nbsp</i><i class="fa fa-cc-visa fa-4x">&nbsp</i><i class="fa fa-cc-mastercard fa-4x"></i></span>
+          <span><i class="fa fa-credit-card fa-4x">&nbsp;</i><i class="fa fa-cc-visa fa-4x">&nbsp;</i><i class="fa fa-cc-mastercard fa-4x"></i></span>
           <h3>Carte de credit</h3>
+          <p>
+            Nous n'accepton pas les cartes de credit. Mais nous prenons les cheques.
+          </p>
         </div>
         <div class="col-md-4">
           <span><i class="fa fa-file-text-o fa-4x"></i></span>
-          <h3>Financement <br>Pole-Emploi</h3>
+          <h3>Financement Pole-Emploi</h3>
+          <p>
+            Rapprocher vous de votre conseiller(e) afin d'avoir toutes les informations necessaire.
+          </p>
         </div>
       </div>
     </div>
@@ -252,26 +259,22 @@
       </div>
       </div><br>
       <div class="row">
-        <div class="col-md-3 col-xs-6 text-center"> <span></span>
+        <div class="col-md-4 col-xs-6 text-center"> <span></span>
           <h3>Photo</h3>
           <p>5 photographies aux normes passeport.</p>
         </div>
-        <div class="col-md-3 col-xs-6 text-center"> <span></span>
+        <div class="col-md-4 col-xs-6 text-center"> <span></span>
           <h3>Enveloppes</h3>
-          <p>1 enveloppe format a5 affranchie a 50g. <br>
+          <p>10 timbres affranchie 20g <br>
             4 enveloppes format a4</p>
         </div>
-        <div class="col-md-3 col-xs-6 text-center"> <span></span>
+        <div class="col-md-4 col-xs-6 text-center"> <span></span>
           <h3>Photocopie</h3>
           <p> Feuille de recensement. <br>
             Journée d'appel à la defense. <br>
             ASSR 2. <br>
             Carte d'identité ou carte de sejour. <br>
           </p>
-        </div>
-        <div class="col-md-3 col-xs-6 text-center"> <span></span>
-          <h3>Original</h3>
-          <p>Adjudication judiciaire pour permis annulé ou solde nul. <br>
         </div>
       </div>
     </div>

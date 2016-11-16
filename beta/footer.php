@@ -10,6 +10,9 @@
         <p>
           Lundi 14H - 19H <br>
           Mardi - Vendredi 9H - 12H / 13H45 - 18H
+
+
+          Lundi Vendredi 
         </p>
       </div>
       <div class="col-md-3 col-sm-12"> 20 bis avenue Anatole France <br>
