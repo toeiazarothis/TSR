@@ -8,16 +8,16 @@
       <div class="col-md-3">
         <h5>Horaires</h5>
         <p>
-          Lundi 14H - 19H <br>
-          Mardi - Vendredi 9H - 12H / 13H45 - 18H
-
-
-          Lundi Vendredi 
+          Lundi 14H - 18H <br>
+          Mardi - Vendredi 9H - 12H / 14H - 18H
         </p>
       </div>
-      <div class="col-md-3 col-sm-12"> 20 bis avenue Anatole France <br>
+      <div class="col-md-3 col-sm-12">
+        <h5>Contact</h5>
+        <p>20 bis avenue Anatole France <br>
         <i class="fa fa-phone"></i> 03-25-75-07-98 <br>
-        <a href="#"></a> <i class="fa fa-mobile"></i> 06-65-70-12-99 </div>
+        <a href="#"></a> <i class="fa fa-mobile"></i> 06-65-70-12-99 </p>
+      </div>
       <div class="col-md-2">
         <div class="text-center"> <br>
           <a class="fa fa-facebook fa-2x social-icon" href="#" target="_blank"></a>&nbsp;

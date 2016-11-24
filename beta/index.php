@@ -60,6 +60,7 @@
           <li class="hidden">
             <li><a href="item.php" class="text-center">Equipements</a></li>
             <li><a href="tarif.php" class="text-center">Info Permis</a></li>
+            <li><a href="avisclient.php" class="text-center">Avis client</a></li>
           </li>
         </ul>
       </div>
