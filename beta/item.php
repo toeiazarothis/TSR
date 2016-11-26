@@ -78,12 +78,12 @@
   <section id="voiture" class="bg-light-gray">
     <div class="container">
       <div class="row text-center">
-        <h2 class="section-heading">Audi A1 Ambition Luxe</h3>
-        <img src="img/audia1.jpg" alt="" class="img-responsive"/>
-        <br>
-        <p>
-          L'auto-ecole TSR est equiper d'une Audi A1 ambition luxe
-        </p>
+        <h2 class="section-heading">Audi A1 Ambition Luxe </h2>
+        <div class="col-md-8 col-md-offset-2 text-center">
+          <img src="img/audia1.jpg" alt="" class="img-responsive"/>
+          <br>
+          <p>L'auto-ecole TSR est equiper d'une Audi A1 ambition luxe</p>
+        </div>
       </div>
     </div>
   </section>

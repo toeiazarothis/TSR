@@ -19,10 +19,9 @@
         <a href="#"></a> <i class="fa fa-mobile"></i> 06-65-70-12-99 </p>
       </div>
       <div class="col-md-2">
-        <div class="text-center"> <br>
-          <a class="fa fa-facebook fa-2x social-icon" href="#" target="_blank"></a>&nbsp;
-          <a class="fa fa-twitter fa-2x social-icon" href="#" target="_blank"></a>&nbsp;
-          <a class="fa fa-google fa-2x social-icon" href="#" target="_blank"></a>
+        <div class="text-center">
+          <h5>Reseau Social</h5>
+          <p><br><a class="fa fa-facebook fa-2x social-icon" href="#" target="_blank"></a><br></p>
         </div>
       </div>
     </div>

@@ -1,5 +1,5 @@
 <?php
-include('id.php');
+include('db.php');
 $connexion = new PDO('mysql:host=localhost;dbname=autoecoletsr', UTILISATEUR, PASS);
 
 function listeNouveauxEleves(){
@@ -9,7 +9,20 @@ function listeNouveauxEleves(){
 }
 
 function ajoutEleve(){
-    $ajout = $connexion->query("INSERT INTO eleve('nom_eleve, prenom_eleve, sexe_eleve, age_eleve, adresse') VALUES ('".$_POST['nom']."','"$_POST['prenom']"','".$_POST['sexe']."','".$_POST['age']."''"$_POST['adresse']"');");
+    $ajout = $connexion->query("INSERT INTO eleve('sexe_eleve, nom_eleve, prenom_eleve, jour_naissance, mois_naissance, anne_naissance, lieu_naissance, adresse, codepostal, ville, telephone1, telephone2, email') VALUES (
+      '".$_POST['sexe']."',
+      '".$_POST['nom']."',
+      '"$_POST['prenom']"',
+      '".$_POST['jour_naissance']."',
+      '".$_POST['mois_naissance']"',
+      '".$_POST['anne_naissance']"',
+      '".$_POST['lieu_naissance']"',
+      '".$_POST['adresse']"',
+      '".$_POST['ccodepostal']"',
+      '".$_POST['ville']"',
+      '".$_POST['telephone1']"',
+      '".$_POST['telephone2']"',
+      '".$_POST['email']"');");
     echo  "Votre profil a bien etait rajouter a notre systeme! <br>";
   }
 

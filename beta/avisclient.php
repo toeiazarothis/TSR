@@ -119,13 +119,6 @@
       </div>
     </div>
   </section>
-  <!-- Avis client -->
-  <a type="button" class="btn btn-lg btn-block btn-info" data-toggle="modal" data-target=".modal-lg-5" href="#">Detail</a></div>
-
-  <!-- Fenetre Modal -->
-  <?php include("modal.php");?>
-  <!-- Fin fenetre modal -->
-
   <!-- Footer -->
   <?php include("footer.php");?>
   <!-- Fin footer -->

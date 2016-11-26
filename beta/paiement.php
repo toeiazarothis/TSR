@@ -58,7 +58,9 @@
       <div class="collapse navbar-collapse" id="navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
           <li class="hidden">
-            <li><a href="index.php" class="text-center">Accueil</a></li>
+            <li><a href="item.php" class="text-center">Equipements</a></li>
+            <li><a href="tarif.php" class="text-center">Info Permis</a></li>
+            <li><a href="avisclient.php" class="text-center">Avis client</a></li>
           </li>
         </ul>
       </div>
@@ -78,11 +80,13 @@
       </div>
     </div>
   </header>
-
-  <!-- Footer -->
-  <?php include("footer.php");?>
-  <!-- Fin footer -->
-
+  <section>
+    <?php include("model/function.php") ?>
+    <?php
+    ajoutEleve()
+     ?>
+  </section>
+  <?php include("footer.php") ?>
   <!-- jQuery -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <!-- Bootstrap Core JavaScript -->

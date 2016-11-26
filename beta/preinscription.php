@@ -90,7 +90,7 @@
         <div class="alert alert-info" role="alert">
         <p><span class="fa fa-info"></span> Merci de bien vouloir remplir soigneusement ce formulaire afin de poursuivre votre pré-inscription.</p>
         </div>
-        <form role="form" id="mail" name="inscription" method="POST" action="choix-paiement.html">
+        <form role="form" method="POST" action="paiement.php">
           <input type="hidden" value="2417" name="id_session" />
           <input type="hidden" value="1" name="type" />
           <input type="hidden" value="1" name="form_inscription" />
@@ -340,14 +340,16 @@
               </div>
             </div>
           </div>
+          <input class="btn btn-success" type="submit" name="submit" value="Ajouter">
           <!-- champs requis -->
           <p><span style="color:#f00;">*</span> Champs obligatoires.</p>
           <hr/>
+        </form>
         </div>
       </div>
     </div>
   </section>
-
+  <?php include("administration.php") ?>
   <!-- Footer -->
   <?php include("footer.php");?>
   <!-- Fin footer -->

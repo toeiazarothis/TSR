@@ -52,20 +52,15 @@
           <ul class="nav navbar-nav navbar-right">
             <li class="hidden"> </li>
             <li> <a href="index.php">Accueil</a></li>
-            <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown"
-                role="button" aria-haspopup="true" aria-expanded="false">Forfaits
-                <span class="caret"></span></a>
-              <ul class="dropdown-menu">
+            <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Forfaits <span class="caret"></span></a>              <ul class="dropdown-menu">
                 <li> <a class="page-scroll" href="#tarif">Les tarifs</a> </li>
                 <li> <a class="page-scroll" href="#detailPack">Détails</a> </li>
-                <li> <a class="page-scroll" href="#prestation">Nos Prestations</a>
-                </li>
+                <li> <a class="page-scroll" href="#prestation">Nos Prestations</a></li>
                 <li> <a class="page-scroll" href="#documents">Inscription</a> </li>
                 <!-- <li role="separator" class="divider"></li>
               <li class="dropdown-header">Info</li>                        <li><a href="#">Separated link</a></li>                        <li><a href="#">One more separated link</a></li> -->
               </ul>
             </li>
-            <li> <a class="page-scroll" href="#avisclients">Avis client</a> </li>
           </ul>
         </div>
       </div>
