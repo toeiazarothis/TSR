@@ -21,7 +21,7 @@
       <div class="col-md-2">
         <div class="text-center">
           <h5>Reseau Social</h5>
-          <p><br><a class="fa fa-facebook fa-2x social-icon" href="#" target="_blank"></a><br></p>
+          <p><br><a class="fa fa-facebook fa-2x social-icon" href="https://www.facebook.com/autoecoletsr" target="_blank"></a><br></p>
         </div>
       </div>
     </div>

@@ -71,7 +71,7 @@
     <h3>Important</h3>
     <p>Veuillez remplir un maximum d'information afin d'etre recontacter au plus vite.</p>
   </section>
-
+  <!-- Formulaire de preinscription -->
   <section id="formulaire">
     <div class="container">
       <div class="row">
@@ -349,7 +349,36 @@
       </div>
     </div>
   </section>
-  <?php include("administration.php") ?>
+  <!-- Formulair de preinscription -->
+  <!-- Inscription est document -->
+  <section id="documents" class="bg-light-gray">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-md-offset-3 text-center"> </div>
+      </div>
+      <br>
+      <div class="row">
+        <div class="col-md-4 col-xs-6 text-center"> <span></span>
+          <h3>Photo</h3>
+          <p>5 photographies aux normes passeport.</p>
+        </div>
+        <div class="col-md-4 col-xs-6 text-center"> <span></span>
+          <h3>Enveloppes</h3>
+          <p>10 timbres affranchie 20g <br>
+            4 enveloppes format a4</p>
+        </div>
+        <div class="col-md-4 col-xs-12 text-center"> <span></span>
+          <h3>Photocopie</h3>
+          <p> Feuille de recensement. <br>
+            Journée d'appel à la défense. <br>
+            ASSR 2. <br>
+            Carte d'identité ou carte de séjour. <br>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Fin inscription -->
   <!-- Footer -->
   <?php include("footer.php");?>
   <!-- Fin footer -->
