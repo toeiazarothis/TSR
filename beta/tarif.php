@@ -230,7 +230,7 @@
           <div class="col-md-4 col-xs-12 text-center"> <span><i class="fa fa-circle-o fa-4x"></i></span>
             <h3>Récupération de points</h3>
             <p> Nous organisons des stages de récupération.<br>
-              L'erreur est humaine est chaque personne&nbsp; a le droit d'avoir
+              L'erreur est humaine est chaque personne a le droit d'avoir
               une nouvelle chance.</p>
           </div>
           <div class="col-md-4 col-xs-12 text-center"> <span><i class="fa fa-car fa-4x"></i></span>
@@ -239,9 +239,9 @@
               Il vous suffira de venir accompagne de votre tuteur légal</p>
           </div>
           <div class="col-md-4 col-xs-12 text-center"> <span><i class="fa fa-users fa-4x"></i></span>
-            <h3>Offre de Parrainage</h3>
-            <p> Venez à 2 c'est mieux. <br>
-              1h de conduite offerte au parrain et 1h au filleul. </p>
+            <h3>Permis accélérée</h3>
+            <p> . <br>
+              . </p>
           </div>
         </div>
       </div>
