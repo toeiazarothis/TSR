@@ -27,11 +27,11 @@ function ajoutEleve(){
   }
 
 function deplacerEleve(){
-  $modification = $connexion->query("UPDATE eleve SET nom_eleve =\"".$_POST[]"")
+  $modification = $connexion->query("UPDATE `eleve` SET `nom_eleve` ='$_POST[]'")
   echo "La pre-inscritpion a bien etait deplacer dans les eleves de l'etablisement";
 }
 function supprimerEleve(){
-  $supprimer =$connexion->query("DELETE FROM eleve WHERE nom_eleve =\"".$_POST['suprnom']."\"");
+  $supprimer =$connexion->query("DELETE FROM `eleve` WHERE `nom_eleve`='$_POST['suprnom']'");
   echo "L'eleve est bien supprimer du systeme";
 }
 ?>
