@@ -1,37 +1,47 @@
 <?php
 include('db.php');
-$connexion = new PDO('mysql:host=mysql.hostinger.fr;dbname=u852249137_aetsr', UTILISATEUR, PASS);
 
 function listeNouveauxEleves(){
-  $connexion = new PDO('mysql:host=mysql.hostinger.fr;dbname=u852249137_aetsr', UTILISATEUR, PASS);
+  $connexion = connectionDB();
+
+  $texte = '';
 
   $listeNew = $connexion->query('SELECT `nom_eleve` FROM `eleve` GROUP BY `nom_eleve` ASC');
-  $result = $listeNew->fetchALL();
-  return $result;
+
+  while ($result = $listeNew->fetch()) {
+    $texte .= '<br>'.$result['nom_eleve'];
+  }
+  return $texte;
 }
 
-function ajoutEleve(){
-  $connexion = new PDO('mysql:host=mysql.hostinger.fr;dbname=u852249137_aetsr', UTILISATEUR, PASS);
+function ajoutEleve (){
+  $connexion = connectionDB();
 
-  $ajout = $connexion->query("INSERT INTO `eleve` (`sexe_eleve`, `nom_eleve`, `prenom_eleve`, `jour_naissance`, `mois_naissance`, `annee_naissance`, `lieu_naissance`, `adresse`, `codepostal`, `ville`, `telephone1`, `telephone2`, `mail`)
-  VALUES ('$_POST['sexe_eleve']',
-          '$_POST['nom_eleve']',
-          '$_POST['prenom_eleve']',
-          '$_POST['jour_naissance']',
-          '$_POST['mois_naissance']',
-          '$_POST['annee_naissance']',
-          '$_POST['lieu_naissance']',
-          '$_POST['adresse']',
-          '$_POST['codepostal']',
-          '$_POST['ville']',
-          '$_POST['telephone1']',
-          '$_POST['telephone2']',
-          '$_POST['mail']");
-    echo  '<!-- Inscription est document -->
+  $ajout = $connexion->exec('INSERT INTO `eleve`
+    (`sexe_eleve`, `nom_eleve`, `prenom_eleve`, `jour_naissance`, `mois_naissance`, `annee_naissance`, `lieu_naissance`, `adresse`, `codepostal`, `ville`, `telephone1`, `telephone2`, `mail`)
+    VALUES ("'.$_POST["sexe_eleve"].'",
+            "'.$_POST["nom_eleve"].'",
+            "'.$_POST["prenom_eleve"].'",
+            "'.$_POST["jour_naissance"].'",
+            "'.$_POST["mois_naissance"].'",
+            "'.$_POST["annee_naissance"].'",
+            "'.$_POST["lieu_naissance"].'",
+            "'.$_POST["adresse"].'",
+            "'.$_POST["codepostal"].'",
+            "'.$_POST["ville"].'",
+            "'.$_POST["telephone1"].'",
+            "'.$_POST["telephone2"].'",
+            "'.$_POST["mail"].'")');
+
+  if ($ajout == FALSE){
+        exit('erreur');//echec envoie
+	}
+
+    return  '<!-- Inscription est document -->
     <section id="documents">
       <div class="container">
         <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center">Votre profil a bien etait rajouter a notre systeme!</div>
+          <div class="col-md-6 col-md-offset-3 text-center">'.listeNouveauxEleves().'Votre profil a bien etait rajouter a notre systeme!</div>
         </div>
         <br>
         <div class="row">
@@ -54,20 +64,20 @@ function ajoutEleve(){
           </div>
         </div>
       </div>
-    </section>"';
-  }
+    </section>';
+}
 
 function deplacerEleve(){
-  $connexion = new PDO('mysql:host=mysql.hostinger.fr;dbname=u852249137_aetsr', UTILISATEUR, PASS);
+  $connexion = connectionDB();
 
-  $modification = $connexion->query("UPDATE `eleve` SET `nom_eleve` = '$_POST['moveEleve']'");
+  $modification = $connexion->query('UPDATE `eleve` SET `nom_eleve` = '.$_POST["moveEleve"].'');
 
   echo "La pre-inscritpion a bien etait deplacer dans les eleves de l'etablisement";
 }
 function supprimerEleve(){
-  $connexion = new PDO('mysql:host=mysql.hostinger.fr;dbname=u852249137_aetsr', UTILISATEUR, PASS);
+  $connexion = connectionDB();
 
-  $supprimer =$connexion->query("DELETE FROM `eleve` WHERE `nom_eleve` = '$_POST['delEleve']'");
+  $supprimer =$connexion->query('DELETE FROM `eleve` WHERE `nom_eleve` = '.$_POST["delEleve"].'');
 
   echo "L'eleve est bien supprimer du systeme";
 }
