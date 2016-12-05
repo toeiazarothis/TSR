@@ -94,7 +94,7 @@
       <div class="row">
         <div class="col-sm-4">
           <div class="team-member">
-            <img src="img/client/tiffany2.jpg" class="img-responsive img-circle" alt="">
+            <img src="img/client/tiffany1.png" class="img-responsive img-circle" alt="">
             <h4>TIFFANY FONDJO</h4>
             <p class="text-muted">Cest mon auto école ! Et je ne changerais pour rien au monde ! Un moniteur FANTASTIQUE à l'écoute de ses élèves ! Que demander de plus au peuple ?!</p>
 

@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?php include("model/function.php") ?>
 <html lang="fr">
 <head>
   <meta charset="utf-8">
@@ -81,10 +82,7 @@
     </div>
   </header>
   <section>
-    <?php include("model/function.php") ?>
-    <?php
-    ajoutEleve()
-     ?>
+    <?php ajoutEleve() ?>
   </section>
   <?php include("footer.php") ?>
   <!-- jQuery -->

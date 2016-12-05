@@ -3,7 +3,8 @@
     <div class="row">
       <div class="col-md-4 text-center">
         <h5>A propos</h5>
-        <p> Nous priorison la reussite de nos eleves avant toute choses.Que dire de plus sur cette auto-école ? </p>
+        <p> Notre priorité est la réussite de nos élèves avant toute choses.<br>
+            Que dire de plus sur cette auto-école ? </p>
       </div>
       <div class="col-md-3">
         <h5>Horaires</h5>
@@ -28,7 +29,7 @@
     <br>
     <div class="row">
       <div class="col-md-4 col-md-offset-4"> <span class="copyright">Copyright
-          © <a href="#">ToeiAzarothis</a> All rights reserved <i class="icon-apache"></i>
+           <a href="patrick.hol.es">ToeiAzarothis</a> and <a href="https://github.com/BlackrockDigital">BlackrockDigital</a> All rights reserved <i class="icon-apache"></i>
         </span> </div>
     </div>
   </div>

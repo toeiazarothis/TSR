@@ -1,4 +1,4 @@
 <?php
-define('UTILISATEUR','root');
-define('PASS','simplon');
+define('UTILISATEUR','u852249137_mouss');
+define('PASS','foot1984');
  ?>
