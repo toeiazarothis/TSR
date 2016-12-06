@@ -41,7 +41,7 @@ function ajoutEleve (){
     <section id="documents">
       <div class="container">
         <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center">'.listeNouveauxEleves().'Votre profil a bien etait rajouter a notre systeme!</div>
+          <div class="col-md-6 col-md-offset-3 text-center">Votre profil a bien etait rajouter a notre systeme!</div>
         </div>
         <br>
         <div class="row">
