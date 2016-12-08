@@ -53,13 +53,23 @@
             <li><a href="#formulaire" class="page-scroll text-center"><span><i class="fa fa-arrow-down"></i></span></a></li>
           </ul>
         </div>
-        <!-- /.navbar-collapse --> </div>
-      <!-- /.container-fluid --> </nav>
-    <section id="top" class="bg-light-gray text-center">
-      <h3>Important</h3>
-      <p>Veuillez remplir un maximum d'information afin d’être recontacter au
-        plus vite.</p>
-    </section>
+        <!-- /.navbar-collapse -->
+      </div>
+      <!-- /.container-fluid -->
+    </nav>
+    <!--  -->
+    <header>
+      <div class="container">
+        <div class="intro-text">
+          <div class="intro-lead-in">Bonjour!</div>
+          <div class="intro-heading">
+            <p>Bienvenue sur la page de pre-inscription à l’auto-école TSR</p>
+            <a href="#formulaire" class="page-scroll btn btn-xl">SUIVRE</a>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!--  -->
     <!-- Formulaire de preinscription -->
     <section id="formulaire">
       <div class="container">

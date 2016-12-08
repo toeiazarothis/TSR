@@ -3,13 +3,13 @@
     <div class="row">
       <div class="col-md-4 text-center">
         <h5>A propos</h5>
-        <p> Notre priorité : la réussite de nos élèves </p>
+        <p> Notre priorité : la réussite de nos élèves <br>Ouverte depuis le 12-08-2014<br>Agrément N° E14 010 00060</p>
       </div>
       <div class="col-md-3">
         <h5>Horaires</h5>
         <p>
           Lundi 14H - 18H <br>
-          Mardi - Vendredi 9H - 12H / 14H - 18H
+          Mardi - Vendredi 09H - 12H / 14H - 18H
         </p>
       </div>
       <div class="col-md-3 col-sm-12">

@@ -71,7 +71,7 @@
           <div class="intro-lead-in">Bonjour!</div>
           <div class="intro-heading">
             <p>Cette page regroupe les forfaits ainsi que les différentes prestations de l’auto-école TSR</p>
-            <a href="#Information" class="page-scroll btn btn-xl">&gt;&gt;SUIVRE&lt;&lt;</a>
+            <a href="#tarif" class="page-scroll btn btn-xl">SUIVRE</a>
           </div>
         </div>
       </div>
