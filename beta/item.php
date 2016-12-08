@@ -10,7 +10,7 @@
     <!-- Balise OpenGraph -->
     <meta property="og:title" content="TSR votre auto-ecole Troyenne">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="L'auto-ecole troyes securite routiere vous invite à patienter sur ce decompte .">
+    <meta property="og:description" content="L’auto-école troyes securite routiere vous invite à patienter sur ce decompte .">
     <meta property="op:markup_version" content="v0.1">
     <meta property="og:locale" content="fr_FR">
     <meta property="og:url" content="patrick.hol.es/TSR/tarif.php">
@@ -22,14 +22,11 @@
     <!-- Custom Fonts -->
     <link rel="stylesheet" href="https://use.fontawesome.com/ce144d1110.css">
     <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"
-      type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet"
-      type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic"
-      rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700"
-      rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet"type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic"rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700"rel="stylesheet" type="text/css">
     <!-- Theme CSS -->
     <link href="css/agency.css" rel="stylesheet">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -51,7 +48,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li class="hidden"> </li>
             <li> <a href="index.php">Accueil</a></li>
-            <li> <a class="page-scroll" href="#voiture">Vehicules</a></li>
+            <li> <a class="page-scroll" href="#voiture">Véhicule</a></li>
             <li> <a class="page-scroll" href="#cours">Salle de code</a></li>
           </ul>
         </div>
@@ -77,7 +74,7 @@
           <h2 class="section-heading">Audi A1 SPORTBACK Ambition Luxe </h2>
           <div class="col-md-8 col-md-offset-2 text-center"> <img src="img/audia1.jpg"
               alt="" class="img-responsive"> <br>
-            <p>L'auto-ecole TSR est actuellement équiper d'un véhicule :</p>
+            <p>L’auto-école TSR est actuellement équiper d'un véhicule :</p>
             <p>- Audi A1 SPORTBACK Ambition Luxe </p>
             <p>- Moteur Diesel </p>
             <p>- Boite de vitesse à 5 rapports</p>
@@ -99,18 +96,18 @@
         </div>
         <!-- Fin de titre -->
         <div class="row">
-          <div class="col-md-4 text-center"> <span><i class="fa fa-sun-o fa-4x"></i></span>
+          <!-- <div class="col-md-4 text-center"> <span><i class="fa fa-sun-o fa-4x"></i></span>
             <h3>Titre</h3>
             <p>texte a mettre pour mise en avant</p>
-          </div>
-          <div class="col-md-4 text-center"> <span><i class="fa fa-microchip fa-4x"></i></span>
+          </div> -->
+          <div class="col-md-4 col-md-offset-2 text-center"> <span><i class="fa fa-microchip fa-4x"></i></span>
             <h3>Technologie</h3>
             <p> Outil à la pointe de la technologie pour effectuer un suivi de
               qualité </p>
           </div>
           <div class="col-md-4 text-center"> <span><i class="fa fa-television fa-4x"></i></span>
             <h3>Grand écran</h3>
-            <p> Exemple de choses à mettre, pour mettre en avant un produit </p>
+            <p> Écran de qualité pour vous permettre de suivre les cours de codes dans de bonne conditions</p>
           </div>
         </div>
         <!-- Fin d'exemple --> </div>

@@ -11,7 +11,7 @@
     <!-- Balise OpenGraph -->
     <meta property="og:title" content="TSR votre auto-ecole Troyenne">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="L'auto-ecole troyes securite routiere vous invite à patienter sur ce decompte .">
+    <meta property="og:description" content="L’auto-école troyes securite routiere vous invite à patienter sur ce decompte .">
     <meta property="op:markup_version" content="v0.1">
     <meta property="og:locale" content="fr_FR">
     <meta property="og:url" content="patrick.hol.es/TSR">
@@ -23,14 +23,11 @@
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"
-      type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet"
-      type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic"
-      rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700"
-      rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet"type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic"rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700"rel="stylesheet" type="text/css">
     <!-- Theme CSS -->
     <link href="css/agency.css" rel="stylesheet">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->

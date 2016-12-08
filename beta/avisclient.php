@@ -10,7 +10,7 @@
   <!-- Balise OpenGraph -->
   <meta property="og:title" content="TSR votre auto-ecole Troyenne" />
   <meta property="og:type" content="website" />
-  <meta property="og:description" content="L'auto-ecole troyes securite routiere vous invite à patienter sur ce decompte .">
+  <meta property="og:description" content="L’auto-école troyes securite routiere vous invite à patienter sur ce decompte .">
   <meta property="op:markup_version" content="v0.1">
   <meta property="og:locale" content="fr_FR" />
   <meta property="og:url" content="patrick.hol.es/TSR/avisclient.php"/>
@@ -25,6 +25,7 @@
   <!-- Custom Fonts -->
   <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
   <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet'type='text/css'>
@@ -94,7 +95,7 @@
       <div class="row">
         <div class="col-sm-4">
           <div class="team-member">
-            <img src="img/client/tiffany1.png" class="img-responsive img-circle" alt="">
+            <img src="img/client/tiffany-fondjo-cliente-satisfaite.png" class="img-responsive img-circle" alt="">
             <h4>TIFFANY FONDJO</h4>
             <p class="text-muted">Cest mon auto école ! Et je ne changerais pour rien au monde ! Un moniteur FANTASTIQUE à l'écoute de ses élèves ! Que demander de plus au peuple ?!</p>
 
@@ -104,7 +105,7 @@
           <div class="team-member">
             <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
             <h4>SAM HADRI</h4>
-            <p class="text-muted">Le meilleur auto école sur Troyes, moniteur compétant bon suivi pédagogique en vue de votre réussite au examens, je recommande.</p>
+            <p class="text-muted">Le meilleur auto école sur Troyes, moniteur compétant bon suivi pédagogique en vue de votre réussite aux examens, je recommande.</p>
 
           </div>
         </div>
@@ -112,7 +113,7 @@
           <div class="team-member">
             <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
             <h4>RÉMY REGNAULT-CHAVIGNY</h4>
-            <p class="text-muted">Très bon moniteur, qui met de suite en confiance avec de bon conseils. Eux le permis du premier coup grâce à Auto Ecole TSR. Je vous recommande vivement cette Auto-école.</p>
+            <p class="text-muted">Très bon moniteur, qui met de suite en confiance avec de bon conseils. Eu le permis du premier coup grâce à Auto Ecole TSR. Je vous recommande vivement cette Auto-école.</p>
 
           </div>
         </div>
