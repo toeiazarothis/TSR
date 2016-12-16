@@ -85,7 +85,7 @@
   <!-- Avis client -->
 
   <section id="avisclient">
-    <div class="container">
+    <div class="container text-center">
       <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading">nos clients nous recommande</h2>
@@ -111,7 +111,7 @@
         </div>
         <div class="col-sm-4">
           <div class="team-member">
-            <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+            <img src="img/client/remi_client_satisfait.jpg" class="img-responsive img-circle" alt="">
             <h4>RÉMY REGNAULT-CHAVIGNY</h4>
             <p class="text-muted">Très bon moniteur, qui met de suite en confiance avec de bon conseils. Eu le permis du premier coup grâce à Auto Ecole TSR. Je vous recommande vivement cette Auto-école.</p>
 

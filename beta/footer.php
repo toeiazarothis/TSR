@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-md-4 text-center">
         <h5>A propos</h5>
-        <p> Notre priorité : la réussite de nos élèves <br>Ouverte depuis le 12-08-2014<br>Agrément N° E14 010 00060</p>
+        <p> Notre priorité : la réussite de nos élèves <br>Ouverte depuis le 24 Octobre 2014<br>Agrément N° E14 010 00060</p>
       </div>
       <div class="col-md-3">
         <h5>Horaires</h5>

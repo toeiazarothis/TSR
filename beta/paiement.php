@@ -70,6 +70,11 @@
     </div>
     <!-- /.container-fluid -->
   </nav>
+<div class="row">
+  <div class="col-md-8 col-md-offset2">
+    <h3>Il vous sera demander de nous fournir les documents ci dessous pour finaliser votre inscrition.</h3>
+  </div>
+</div>
 
   <header>
     <div class="container">

@@ -3,14 +3,18 @@ include('db.php');
 
 function listeNouveauxEleves(){
   $connexion = connectionDB();
-
   $texte = '';
-
-  $listeNew = $connexion->query('SELECT `nom_eleve` FROM `eleve` GROUP BY `nom_eleve` ASC');
-
+  $listeNew = $connexion->query('SELECT * FROM `eleve`');
   while ($result = $listeNew->fetch()) {
-    $texte .= '<br>'.$result['nom_eleve'];
-  }
+    $texte .=
+    '<tr>
+      <td>'.$result['nom_eleve'].'</td>
+      <td>'.$result['prenom_eleve'].'</td>
+      <td>'.$result['annee_naissance'].'</td>
+      <td>'.$result['adresse'].'</td>
+      <td>0'.$result['telephone1'].'</td>
+      <td>0'.$result['telephone2'].'</td>
+    </tr><br>';}
   return $texte;
 }
 
@@ -41,9 +45,12 @@ function ajoutEleve (){
     <section id="documents">
       <div class="container">
         <div class="row">
-          <div class="col-md-6 col-md-offset-3 text-center">Votre profil a bien etait rajouter a notre systeme!</div>
+          <div class="col-md-6 col-md-offset-3 text-center">
+          <h3>Votre profil a bien etait rajouter a notre systeme!</h3>
+          </div>
         </div>
         <br>
+
         <div class="row">
           <div class="col-md-4 col-xs-6 text-center"> <span></span>
             <h3>Photo</h3>
