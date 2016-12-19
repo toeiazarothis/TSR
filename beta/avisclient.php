@@ -94,28 +94,25 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-sm-4">
+        <div class="col-md-3 col-md-offset-3">
           <div class="team-member">
             <img src="img/client/tiffany-fondjo-cliente-satisfaite.png" class="img-responsive img-circle" alt="">
             <h4>TIFFANY FONDJO</h4>
             <p class="text-muted">Cest mon auto école ! Et je ne changerais pour rien au monde ! Un moniteur FANTASTIQUE à l'écoute de ses élèves ! Que demander de plus au peuple ?!</p>
-
           </div>
         </div>
-        <div class="col-sm-4">
+        <!-- <div class="col-sm-4">
           <div class="team-member">
             <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
             <h4>SAM HADRI</h4>
             <p class="text-muted">Le meilleur auto école sur Troyes, moniteur compétant bon suivi pédagogique en vue de votre réussite aux examens, je recommande.</p>
-
           </div>
-        </div>
-        <div class="col-sm-4">
+        </div> -->
+        <div class="col-md-3">
           <div class="team-member">
             <img src="img/client/remi_client_satisfait.jpg" class="img-responsive img-circle" alt="">
             <h4>RÉMY REGNAULT-CHAVIGNY</h4>
             <p class="text-muted">Très bon moniteur, qui met de suite en confiance avec de bon conseils. Eu le permis du premier coup grâce à Auto Ecole TSR. Je vous recommande vivement cette Auto-école.</p>
-
           </div>
         </div>
       </div>

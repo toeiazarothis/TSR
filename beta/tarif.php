@@ -146,7 +146,6 @@
                 <li class="list-group-item"> Accès en salle de code <span class="fa fa-times pull-right"></span></li>
                 <li class="list-group-item"> Pass-Rousseau <span class="fa fa-times pull-right"></span></li>
                 <li class="list-group-item"> Livret de code <span class="fa fa-times pull-right"></span></li>
-                <li class="list-group-item"> exemple <span class="fa fa-check pull-right"></span></li>
                 <div class="panel-footer"><a type="button" class="btn btn-lg btn-block btn-info" data-toggle="modal" data-target=".modal-lg-4" href="#">Détail</a></div>
               </ul>
             </div>
@@ -181,8 +180,7 @@
             <p>Pour plus d'informations venez en agence afin de réaliser une devis qui vous sera nécessaire pour faire la demande.</a>
             </p>
           </div>
-          <div class="col-md-4"> <span><i class="fa fa-credit-card fa-4x">&nbsp;</i><i
-                class="fa fa-cc-visa fa-4x">&nbsp;</i></span>
+          <div class="col-md-4"> <span><i class="fa fa-credit-card fa-4x">&nbsp;</i><i class="fa fa-cc-visa fa-4x">&nbsp;</i></span>
             <h3>Carte de crédit</h3>
             <p> Nous n’acceptons pas les cartes de crédit comme moyen de paiement.</p>
           </div>
@@ -209,19 +207,15 @@
         <!-- Fin de titre -->
         <!-- 3 exemple de presta -->
         <div class="row">
-          <div class="col-md-4 text-center">
+          <div class="col-md-6 text-center">
             <h3>Pass-Rousseau</h3>
             <p> Ce pass vous permets d'effectuer des exercices et de suivre des
               cours depuis n'importe quel support connecter à internet </p>
           </div>
-          <div class="col-md-4 text-center">
+          <div class="col-md-6 text-center">
             <h3>Suivi perso</h3>
             <p> Afin de maximiser votre réussite l’auto-école sera à votre
               écoute pour le moindre souci que vous pourriez avoir </p>
-          </div>
-          <div class="col-md-4 text-center">
-            <h3>Un titre</h3>
-            <p> Exemple de choses à mettre, pour mettre en avant un produit </p>
           </div>
         </div>
         <!-- Fin d'exemple --> </div>
@@ -239,21 +233,16 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-4 col-xs-12 text-center"> <span></span>
+          <div class="col-md-6 col-xs-12 text-center"> <span></span>
             <h3>Récupération de points</h3>
             <p> Nous organisons des stages de récupération.<br>
               L'erreur est humaine est chaque personne a le droit d'avoir une
               nouvelle chance.</p>
           </div>
-          <div class="col-md-4 col-xs-12 text-center"> <span></span>
+          <div class="col-md-6 col-xs-12 text-center"> <span></span>
             <h3>Conduite Accompagnée</h3>
             <p> La conduite accompagnée à portée de main.<br>
               Il vous suffira de venir accompagne de votre tuteur légal</p>
-          </div>
-          <div class="col-md-4 col-xs-12 text-center"> <span></span>
-            <h3>Permis accélérée</h3>
-            <p> . <br>
-              . </p>
           </div>
         </div>
       </div>
