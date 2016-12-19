@@ -1,0 +1,64 @@
+<link rel="author" href="humans.txt" />
+
+/* TEAM*/
+
+
+	Developer	Patrick De Almeida
+    	Website		http://patrick.hol.es
+	Twitter		[at]De_Almeida89
+   	From		Bourgogne, FR
+
+
+
+/* THANKS */
+
+
+
+	Back-End	Jordan Larue
+	Website		http://moody-simplon.esy.es
+	From		Aube, FR
+
+	Back-End	Josselyn
+	From		Aube, FR
+
+
+
+/* RESOURCES */
+
+
+
+	Project		Montserrat
+	URL		http://fonts.google.com/speciment/Montserrat/
+	Author		Julieta Ulanovsky
+	License		OFL
+
+	Project		Lobster
+	URL		http://fonts.google.com/speciment/Lobster/
+	Author		Impallari Type
+	License		OFL
+
+	Project		Rubik
+	URL		http://fonts.google.com/speciment/Rubik/
+	Author		Hubert and Fischer
+	License     	OFL
+
+	Project		Font Awesome
+	URL		http://fontawesome.io/icons/
+	Author		Dave Gandy
+	License		OFL
+
+	Project		Bootstrap
+	url		http://getbootstrap.com
+	Author		Twitter
+	Licensed	MIT
+
+
+
+/* SITE */
+
+
+
+	Last update:2016/12/19
+	Language: French
+	Doctype:HTML5
+	IDE: Atom, Notepad++, FileZilla

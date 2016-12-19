@@ -70,24 +70,18 @@
     </div>
     <!-- /.container-fluid -->
   </nav>
-<div class="row">
-  <div class="col-md-8 col-md-offset2">
-    <h3>Il vous sera demander de nous fournir les documents ci dessous pour finaliser votre inscrition.</h3>
-  </div>
-</div>
-
   <header>
     <div class="container">
       <div class="intro-text">
         <div class="intro-lead-in">Bonjour!</div>
         <div class="intro-heading">
           <p>Nous vous souhaitons la bienvenue sur le site de l'auto école TSR</p>
-          <a href="#Information" class="page-scroll btn btn-xl">&gt;&gt;SUIVRE&lt;&lt;</a>
+          <a href="#down" class="page-scroll btn btn-xl">SUIVRE</a>
         </div>
       </div>
     </div>
   </header>
-  <section>
+  <section id="down">
     <?php echo ajoutEleve(); ?>
   </section>
   <?php include("footer.php") ?>

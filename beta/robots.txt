@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /administration.php
+Disallow: /paiement.php
+Disallow: /img/
+
+User-agent: Googlebot-Image
+Disallow: /

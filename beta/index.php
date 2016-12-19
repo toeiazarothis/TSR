@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Site de l'auto ecole TSR a troyes dans l'avenue anatole france">
     <meta name="author" content="ToeiAzarothis">
+    <link rel="author" href="humans.txt"/>
     <link rel="shortcut icon" href="img/volant.png">
     <!-- Balise OpenGraph -->
     <meta property="og:title" content="TSR votre auto-ecole Troyenne">
@@ -60,7 +61,7 @@
           <div class="intro-lead-in">Bonjour!</div>
           <div class="intro-heading">
             <p>Nous vous souhaitons la bienvenue sur le site de l'auto école TSR</p>
-            <a href="#Information" class="page-scroll btn btn-xl">&gt;&gt;SUIVRE&lt;&lt;</a>
+            <a href="#footer" class="page-scroll btn btn-xl">SUIVRE</a>
           </div>
         </div>
       </div>

@@ -49,6 +49,11 @@ function ajoutEleve (){
           <h3>Votre profil a bien etait rajouter a notre systeme!</h3>
           </div>
         </div>
+        <div class="row">
+          <div class="col-md-8 col-md-offset2">
+            <h3>Il vous sera demander de nous fournir les documents ci dessous pour finaliser votre inscrition.</h3>
+          </div>
+        </div>
         <br>
 
         <div class="row">

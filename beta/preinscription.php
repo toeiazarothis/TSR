@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Site d'information sur Pokemon Go pour la communauté des joueurs de Troyes">
     <meta name="author" content="ToeiAzarothis">
+    <link rel="author" href="humans.txt"/>
     <link rel="shortcut icon" href="img/volant.png">
     <!-- Balise OpenGraph -->
     <meta property="og:title" content="TSR votre auto-ecole Troyenne">
@@ -279,7 +280,7 @@
                   <div class="form-group"> <label for="prenom">Lieu de
                       naissance <span style="color:#f00;">*</span> : </label>
                     <input name="lieu_naissance" id="lieu_naissance" class="form-control"
-                      value="" required="" type="text"> </div>
+                      value="" required="" type="text"></div>
                 </div>
               </div>
               <!-- block adresses -->
@@ -288,18 +289,18 @@
                 <div class="col-md-4">
                   <div class="form-group"> <label for="adresse">Adresse<span style="color:#f00;">*</span>
                       : </label> <input name="adresse" id="adresse" class="form-control"
-                      value="" required="" type="text"> </div>
+                      value="" required="" type="text"></div>
                 </div>
                 <div class="col-md-4">
                   <div class="form-group"> <label for="codepostal">Code postal
                       <span style="color:#f00;">*</span> : </label> <input name="codepostal"
                       id="codepostal" class="form-control" value="" required=""
-                      type="text"> </div>
+                      type="text"></div>
                 </div>
                 <div class="col-md-4">
                   <div class="form-group"> <label for="ville">Ville <span style="color:#f00;">*</span>
                       : </label> <input name="ville" id="ville" class="form-control"
-                      value="" required="" type="text"> </div>
+                      value="" required="" type="text"></div>
                 </div>
               </div>
               <!-- block contact -->
@@ -308,19 +309,20 @@
                   <div class="form-group"> <label for="telephone1">Télephone 1
                       <span style="color:#f00;">*</span> : </label> <input name="telephone1"
                       id="telephone1" class="form-control" value="" required=""
-                      type="text"> </div>
+                      type="text"></div>
                 </div>
                 <div class="col-md-4">
                   <div class="form-group"> <label for="telephone2">Télephone 2
                       : </label> <input name="telephone2" id="telephone2" class="form-control"
-                      value="" type="text"> </div>
+                      value="" type="text"></div>
                 </div>
                 <div class="col-md-4">
                   <div class="form-group"> <label for="mail">Mail <span style="color:#f00;">*</span>
                       : </label> <input name="mail" id="mail" class="form-control"
-                      value="" required="" type="text"> </div>
+                      value="" required="" type="text"></div>
                 </div>
               </div>
+              <input class="btn btn-danger"  name="reset" value="Effacer" type="reset">
               <input class="btn btn-success" name="submit" value="Ajouter" type="submit">
               <!-- champs requis -->
               <p><span style="color:#f00;">*</span> Champs obligatoires.</p>

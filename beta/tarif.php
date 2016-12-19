@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Site d'information sur Pokemon Go pour la communauté des joueurs de Troyes">
     <meta name="author" content="ToeiAzarothis">
+    <link rel="author" href="humans.txt"/>
     <link rel="shortcut icon" href="img/volant.png">
     <!-- Balise OpenGraph -->
     <meta property="og:title" content="TSR votre auto-ecole Troyenne">

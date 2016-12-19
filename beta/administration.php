@@ -5,13 +5,15 @@
     <?php include("model/function.php") ?>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Site d'information sur Pokemon Go pour la communauté des joueurs de Troyes">
+    <meta name="description" content="Site de l'auto ecole TSR à Troyes">
     <meta name="author" content="ToeiAzarothis">
-    <link rel="shortcut icon" href="img/volant.png">
+    <link rel="author" href="humans.txt"/>
+    <link rel="shortcut icon" href="img/volant.png"/>
     <!-- Balise OpenGraph -->
-    <meta property="og:title" content="TSR votre auto-ecole Troyenne">
+    <meta property="og:title" content="TSR votre auto-ecole Troyenne"/>
     <meta property="og:type" content="website">
-    <meta property="og:description" content="L’auto-école troyes securite routiere vous invite à patienter sur ce decompte .">
+    <meta property="og:description" content="Administration de l'auto ecole TSR.
+    Un code sera demander.">
     <meta property="op:markup_version" content="v0.1">
     <meta property="og:locale" content="fr_FR">
     <meta property="og:url" content="patrick.hol.es/TSR">
@@ -50,7 +52,6 @@
           <ul class="nav navbar-nav navbar-right">
             <li class="hidden"> </li>
             <li><a href="index.php" class="text-center">Accueil</a></li>
-            <li><a href="#formulaire" class="page-scroll text-center"><i class="fa fa-arrow-down"></i></span></a></li>
           </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -63,8 +64,8 @@
       <div class="row">
         <div class="col-lg-10 col-md-offset-1 text-center">
           <h2>Liste des pre-inscrit</h2><br>
-          <div class="col-md-12 text-center">
-            <table class="table table-striped table-hover table-responsive">
+          <div class="col-md-12 text-center table-responsive">
+            <table class="table table-hover">
               <thead>
                 <tr>
                   <th>Nom</th>
